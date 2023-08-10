@@ -6,7 +6,7 @@ I am also a web developer with a passion for creating innovative and user-friend
   
 <br/>  
 
-<img src="https://github.com/devstar-mern/devstar-mern/Screenshot_4.png" />
+![image](https://github.com/devstar-mern/devstar-mern/blob/main/Screenshot_4.png)
 
 <br/>
 <a href="https://relaxed-blini-27e8b5.netlify.app/" target="_blank">

@@ -1,8 +1,7 @@
 ## Hey 👋,  
 
 ### Glad to see you here!  
-I’m a highly skilled and dedicated Blockchain developer with + 4 years of experiences in developing decentralized applications (DApps) and smart contracts. Proficient in blockchain technologies, including Ethereum, with a deep understanding of cryptography and consensus algorithms.
-I am also a web developer with a passion for creating innovative and user-friendly websites. Proficient in front-end, + 8 years of web developing experiences and programming languages. Experienced in collaborating with cross-functional teams to deliver high-quality projects within deadlines. Committed to staying updated with the latest industry trends and continuously improving skills to provide exceptional web solutions.  
+I am a web developer with a passion for creating innovative and user-friendly websites. Proficient in front-end, + 8 years of web developing experiences and programming languages. Experienced in collaborating with cross-functional teams to deliver high-quality projects within deadlines. Committed to staying updated with the latest industry trends and continuously improving skills to provide exceptional web solutions.  
   
 <br/>  
 
@@ -15,10 +14,10 @@ See My Portfolio
 <br/>
 
 ### My Job  
-- 🔭 I’m Blockchain Developer.
+- 🔭 I’m a highly skilled MERN Stack Developer.
   
 
-- ❓ Ask me about anything related to Blockchain and Full Stack technologies  
+- ❓ Ask me about anything related to Full Stack technologies  
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times.
